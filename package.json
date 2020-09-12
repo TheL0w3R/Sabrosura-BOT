@@ -1,0 +1,15 @@
+{
+  "name": "sabrosura_bot",
+  "version": "0.0.1",
+  "description": "Un bot de Discord para darle sabrosura a nuestras partidas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "TheL0w3R",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1"
+  }
+}
